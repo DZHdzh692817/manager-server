@@ -8,7 +8,7 @@ npm install
 ```
 npm start
 ```
-### 热更新的使用命令
+### 热更新的使用命令 xxx
 ```
 npm run dev
 ```
