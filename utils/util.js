@@ -1,8 +1,7 @@
 /**
  * 通用工具函数
  */
-const log4js = require('./utils/log-4')
-const jwt = require('jsonwebtoken')
+const log4js = require('./log-4')
 const CODE = {
     SUCCESS: 200,
     PARAM_ERROR: 10001, // 参数错误
@@ -40,54 +39,5 @@ module.exports = {
         return {
             code, data, msg
         }
-    },
-    CODE,
-    decoded(authorization) {
-        if (authorization) {
-            let token = authorization.split(' ')[1]
-            return jwt.verify(token, 'imooc')
-        }
-        return '';
-    },
-    // 递归拼接树形列表
-    getTreeMenu(rootList, id, list) {
-        for (let i = 0; i < rootList.length; i++) {
-            let item = rootList[i]
-            if (String(item.parentId.slice().pop()) == String(id)) {
-                list.push(item._doc)
-            }
-        }
-        list.map(item => {
-            item.children = []
-            this.getTreeMenu(rootList, item._id, item.children)
-            if (item.children.length == 0) {
-                delete item.children;
-            } else if (item.children.length > 0 && item.children[0].menuType == 2) {
-                // 快速区分按钮和菜单，用于后期做菜单按钮权限控制
-                item.action = item.children;
-            }
-        })
-        return list;
-    },
-    formateDate(date, rule) {
-        let fmt = rule || 'yyyy-MM-dd hh:mm:ss'
-        if (/(y+)/.test(fmt)) {
-            fmt = fmt.replace(RegExp.$1, date.getFullYear())
-        }
-        const o = {
-            // 'y+': date.getFullYear(),
-            'M+': date.getMonth() + 1,
-            'd+': date.getDate(),
-            'h+': date.getHours(),
-            'm+': date.getMinutes(),
-            's+': date.getSeconds()
-        }
-        for (let k in o) {
-            if (new RegExp(`(${k})`).test(fmt)) {
-                const val = o[k] + '';
-                fmt = fmt.replace(RegExp.$1, RegExp.$1.length == 1 ? val : ('00' + val).substr(val.length));
-            }
-        }
-        return fmt;
-    },
+    }, 
 }
