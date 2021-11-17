@@ -8,7 +8,9 @@ const logger = require('koa-logger')
 const log4js = require('./utils/log-4')
 const router = require('koa-router')()
 const users = require('./routes/users')
-
+const jwt = require('jsonwebtoken')
+const koajwt = require('koa-jwt')//jwt中间件
+const util = require('./utils/util')
 
 // error handler
 onerror(app)
@@ -47,13 +49,17 @@ app.use(async (ctx, next) => {
             ctx.status = 200;
             ctx.body = util.fail('Token认证失败', util.CODE.AUTH_ERROR)
         } else {
-        throw err;
+            throw err;
         }
     })
 })
 
+app.use(koajwt({secret: 'txc'}).unless({
+    path: [/^\/api\/users\/login/]
+}))//拦截 登录不用拦截
 
 router.prefix("/api")
+
 router.use(users.routes(), users.allowedMethods())
 app.use(router.routes(), router.allowedMethods())
 

@@ -1,0 +1,115 @@
+[2021-11-17T15:09:46.842] [ERROR] error - ReferenceError: jwt is not defined
+    at D:\vite-vue项目\manager-server\app.js:59:5
+    at dispatch (D:\vite-vue项目\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\vite-vue项目\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at D:\vite-vue项目\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (D:\vite-vue项目\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at D:\vite-vue项目\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\vite-vue项目\manager-server\node_modules\koa-router\lib\router.js:351:31)
+    at dispatch (D:\vite-vue项目\manager-server\node_modules\koa-compose\index.js:42:32)
+    at D:\vite-vue项目\manager-server\app.js:45:11
+    at dispatch (D:\vite-vue项目\manager-server\node_modules\koa-compose\index.js:42:32)
+    at views (D:\vite-vue项目\manager-server\node_modules\koa-views\src\index.js:91:12)
+    at dispatch (D:\vite-vue项目\manager-server\node_modules\koa-compose\index.js:42:32)
+    at serve (D:\vite-vue项目\manager-server\node_modules\koa-static\index.js:53:15)
+    at async logger (D:\vite-vue项目\manager-server\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (D:\vite-vue项目\manager-server\node_modules\koa-bodyparser\index.js:95:5)
+[2021-11-17T15:09:58.883] [ERROR] error - ReferenceError: jwt is not defined
+    at D:\vite-vue项目\manager-server\app.js:59:5
+    at dispatch (D:\vite-vue项目\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\vite-vue项目\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at D:\vite-vue项目\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (D:\vite-vue项目\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at D:\vite-vue项目\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\vite-vue项目\manager-server\node_modules\koa-router\lib\router.js:351:31)
+    at dispatch (D:\vite-vue项目\manager-server\node_modules\koa-compose\index.js:42:32)
+    at D:\vite-vue项目\manager-server\app.js:45:11
+    at dispatch (D:\vite-vue项目\manager-server\node_modules\koa-compose\index.js:42:32)
+    at views (D:\vite-vue项目\manager-server\node_modules\koa-views\src\index.js:91:12)
+    at dispatch (D:\vite-vue项目\manager-server\node_modules\koa-compose\index.js:42:32)
+    at serve (D:\vite-vue项目\manager-server\node_modules\koa-static\index.js:53:15)
+    at async logger (D:\vite-vue项目\manager-server\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (D:\vite-vue项目\manager-server\node_modules\koa-bodyparser\index.js:95:5)
+[2021-11-17T15:11:19.875] [ERROR] error - ReferenceError: jwt is not defined
+    at D:\vite-vue项目\manager-server\app.js:59:5
+    at dispatch (D:\vite-vue项目\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\vite-vue项目\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at D:\vite-vue项目\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (D:\vite-vue项目\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at D:\vite-vue项目\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\vite-vue项目\manager-server\node_modules\koa-router\lib\router.js:351:31)
+    at dispatch (D:\vite-vue项目\manager-server\node_modules\koa-compose\index.js:42:32)
+    at D:\vite-vue项目\manager-server\app.js:45:11
+    at dispatch (D:\vite-vue项目\manager-server\node_modules\koa-compose\index.js:42:32)
+    at views (D:\vite-vue项目\manager-server\node_modules\koa-views\src\index.js:91:12)
+    at dispatch (D:\vite-vue项目\manager-server\node_modules\koa-compose\index.js:42:32)
+    at serve (D:\vite-vue项目\manager-server\node_modules\koa-static\index.js:53:15)
+    at async logger (D:\vite-vue项目\manager-server\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (D:\vite-vue项目\manager-server\node_modules\koa-bodyparser\index.js:95:5)
+[2021-11-17T15:12:44.150] [ERROR] error - TypeError: Cannot read property 'split' of undefined
+    at D:\vite-vue项目\manager-server\app.js:59:53
+    at dispatch (D:\vite-vue项目\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\vite-vue项目\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at D:\vite-vue项目\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (D:\vite-vue项目\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at D:\vite-vue项目\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\vite-vue项目\manager-server\node_modules\koa-router\lib\router.js:351:31)
+    at dispatch (D:\vite-vue项目\manager-server\node_modules\koa-compose\index.js:42:32)
+    at D:\vite-vue项目\manager-server\app.js:45:11
+    at dispatch (D:\vite-vue项目\manager-server\node_modules\koa-compose\index.js:42:32)
+    at views (D:\vite-vue项目\manager-server\node_modules\koa-views\src\index.js:91:12)
+    at dispatch (D:\vite-vue项目\manager-server\node_modules\koa-compose\index.js:42:32)
+    at serve (D:\vite-vue项目\manager-server\node_modules\koa-static\index.js:53:15)
+    at async logger (D:\vite-vue项目\manager-server\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (D:\vite-vue项目\manager-server\node_modules\koa-bodyparser\index.js:95:5)
+[2021-11-17T15:13:25.797] [ERROR] error - ReferenceError: jwt is not defined
+    at D:\vite-vue项目\manager-server\app.js:60:21
+    at dispatch (D:\vite-vue项目\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\vite-vue项目\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at D:\vite-vue项目\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (D:\vite-vue项目\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at D:\vite-vue项目\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\vite-vue项目\manager-server\node_modules\koa-router\lib\router.js:351:31)
+    at dispatch (D:\vite-vue项目\manager-server\node_modules\koa-compose\index.js:42:32)
+    at D:\vite-vue项目\manager-server\app.js:45:11
+    at dispatch (D:\vite-vue项目\manager-server\node_modules\koa-compose\index.js:42:32)
+    at views (D:\vite-vue项目\manager-server\node_modules\koa-views\src\index.js:91:12)
+    at dispatch (D:\vite-vue项目\manager-server\node_modules\koa-compose\index.js:42:32)
+    at serve (D:\vite-vue项目\manager-server\node_modules\koa-static\index.js:53:15)
+    at async logger (D:\vite-vue项目\manager-server\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (D:\vite-vue项目\manager-server\node_modules\koa-bodyparser\index.js:95:5)
+[2021-11-17T15:30:21.697] [ERROR] error - ReferenceError: util is not defined
+    at D:\vite-vue项目\manager-server\app.js:49:24
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async D:\vite-vue项目\manager-server\app.js:46:5
+    at async serve (D:\vite-vue项目\manager-server\node_modules\koa-static\index.js:53:9)
+    at async logger (D:\vite-vue项目\manager-server\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (D:\vite-vue项目\manager-server\node_modules\koa-bodyparser\index.js:95:5)
+[2021-11-17T15:30:24.625] [ERROR] error - ReferenceError: util is not defined
+    at D:\vite-vue项目\manager-server\app.js:49:24
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async D:\vite-vue项目\manager-server\app.js:46:5
+    at async serve (D:\vite-vue项目\manager-server\node_modules\koa-static\index.js:53:9)
+    at async logger (D:\vite-vue项目\manager-server\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (D:\vite-vue项目\manager-server\node_modules\koa-bodyparser\index.js:95:5)
+[2021-11-17T15:30:50.117] [ERROR] error - ReferenceError: util is not defined
+    at D:\vite-vue项目\manager-server\app.js:49:24
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async D:\vite-vue项目\manager-server\app.js:46:5
+    at async serve (D:\vite-vue项目\manager-server\node_modules\koa-static\index.js:53:9)
+    at async logger (D:\vite-vue项目\manager-server\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (D:\vite-vue项目\manager-server\node_modules\koa-bodyparser\index.js:95:5)
+[2021-11-17T15:31:24.542] [ERROR] error - ReferenceError: util is not defined
+    at D:\vite-vue项目\manager-server\app.js:49:24
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async D:\vite-vue项目\manager-server\app.js:46:5
+    at async serve (D:\vite-vue项目\manager-server\node_modules\koa-static\index.js:53:9)
+    at async logger (D:\vite-vue项目\manager-server\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (D:\vite-vue项目\manager-server\node_modules\koa-bodyparser\index.js:95:5)
+[2021-11-17T15:35:25.565] [ERROR] error - ReferenceError: util is not defined
+    at D:\vite-vue项目\manager-server\app.js:49:24
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async D:\vite-vue项目\manager-server\app.js:46:5
+    at async serve (D:\vite-vue项目\manager-server\node_modules\koa-static\index.js:53:9)
+    at async logger (D:\vite-vue项目\manager-server\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (D:\vite-vue项目\manager-server\node_modules\koa-bodyparser\index.js:95:5)
