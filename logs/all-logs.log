@@ -598,3 +598,6 @@
 [2021-11-20T12:56:45.657] [INFO] info - post params:{"params":{"state":3,"roleList":["60180b07b1eaed6c45fbebdb","60180b59b1eaed6c45fbebdc"],"userName":"老吴","userEmail":"laowu@qq.com","mobile":"15215554456","job":"go后端","deptId":["60167059c9027b7d2c520a61","6016728fc6a4417f2d27506e","60167621531124822b79e124"],"action":"add"}}
 [2021-11-20T12:56:45.907] [INFO] info - get params:{"state":"0","userId":"","userName":"","pageNum":"1","pageSize":"10"}
 [2021-11-20T12:56:45.908] [INFO] info - post params:{}
+[2021-11-20T12:58:03.587] [INFO] info - ****数据库连接成功****
+[2021-11-20T12:59:26.552] [INFO] info - get params:{"state":"1","userId":"","userName":"","pageNum":"1","pageSize":"10"}
+[2021-11-20T12:59:26.553] [INFO] info - post params:{}
