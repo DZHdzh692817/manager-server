@@ -601,3 +601,259 @@
 [2021-11-20T12:58:03.587] [INFO] info - ****数据库连接成功****
 [2021-11-20T12:59:26.552] [INFO] info - get params:{"state":"1","userId":"","userName":"","pageNum":"1","pageSize":"10"}
 [2021-11-20T12:59:26.553] [INFO] info - post params:{}
+[2021-11-21T08:38:27.913] [INFO] info - ****数据库连接成功****
+[2021-11-21T08:47:59.141] [INFO] info - get params:{}
+[2021-11-21T08:47:59.142] [INFO] info - post params:{"userName":"admin","userPwd":"admin"}
+[2021-11-21T09:09:37.801] [INFO] info - get params:{"state":"1","userId":"","userName":"","pageNum":"1","pageSize":"10"}
+[2021-11-21T09:09:37.801] [INFO] info - post params:{}
+[2021-11-21T09:10:03.960] [INFO] info - get params:{"state":"1","userId":"","userName":"","pageNum":"1","pageSize":"10"}
+[2021-11-21T09:10:03.961] [INFO] info - post params:{}
+[2021-11-21T09:10:06.016] [INFO] info - get params:{"state":"1","userId":"","userName":"","pageNum":"1","pageSize":"10"}
+[2021-11-21T09:10:06.016] [INFO] info - post params:{}
+[2021-11-21T09:10:08.473] [INFO] info - get params:{"state":"1","userId":"","userName":"","pageNum":"1","pageSize":"10"}
+[2021-11-21T09:10:08.474] [INFO] info - post params:{}
+[2021-11-21T09:14:16.000] [INFO] info - get params:{"state":"1","userId":"","userName":"","pageNum":"1","pageSize":"10"}
+[2021-11-21T09:14:16.001] [INFO] info - post params:{}
+[2021-11-21T15:16:40.330] [INFO] info - ****数据库连接成功****
+[2021-11-21T15:17:05.775] [INFO] info - ****数据库连接成功****
+[2021-11-21T15:17:24.295] [INFO] info - ****数据库连接成功****
+[2021-11-21T15:17:38.142] [INFO] info - ****数据库连接成功****
+[2021-11-21T15:17:54.429] [INFO] info - ****数据库连接成功****
+[2021-11-21T15:18:11.590] [INFO] info - ****数据库连接成功****
+[2021-11-21T15:18:39.733] [INFO] info - ****数据库连接成功****
+[2021-11-21T15:21:56.722] [INFO] info - ****数据库连接成功****
+[2021-11-21T15:22:38.402] [INFO] info - ****数据库连接成功****
+[2021-11-21T15:24:25.695] [INFO] info - ****数据库连接成功****
+[2021-11-21T15:25:45.187] [INFO] info - ****数据库连接成功****
+[2021-11-21T15:25:52.529] [INFO] info - ****数据库连接成功****
+[2021-11-21T15:26:37.298] [INFO] info - ****数据库连接成功****
+[2021-11-21T15:28:08.175] [INFO] info - ****数据库连接成功****
+[2021-11-21T15:30:32.207] [INFO] info - ****数据库连接成功****
+[2021-11-21T15:30:37.157] [INFO] info - ****数据库连接成功****
+[2021-11-21T15:34:55.375] [INFO] info - ****数据库连接成功****
+[2021-11-21T15:35:13.599] [INFO] info - ****数据库连接成功****
+[2021-11-21T15:35:23.164] [INFO] info - get params:{}
+[2021-11-21T15:35:23.166] [INFO] info - post params:{"params":{"menuForm":{"parentId":[null],"menuType":1,"menuState":1,"menuName":"fgf","icon":"fgf","path":"gfg","menuCode":"","component":"fgf"},"action":"add"}}
+[2021-11-21T15:36:03.006] [INFO] info - get params:{}
+[2021-11-21T15:36:03.007] [INFO] info - post params:{"userName":"admin","userPwd":"admin"}
+[2021-11-21T15:38:20.472] [INFO] info - ****数据库连接成功****
+[2021-11-21T15:38:28.757] [INFO] info - get params:{}
+[2021-11-21T15:38:28.759] [INFO] info - post params:{"params":{"menuForm":{"parentId":[null],"menuType":1,"menuState":1,"menuName":"df","icon":"df","path":"df","menuCode":"","component":"df"},"action":"add"}}
+[2021-11-21T15:39:24.889] [INFO] info - ****数据库连接成功****
+[2021-11-21T15:39:32.518] [INFO] info - get params:{}
+[2021-11-21T15:39:32.520] [INFO] info - post params:{"params":{"menuForm":{"parentId":[null],"menuType":1,"menuState":1,"menuName":"df","icon":"df","path":"df","menuCode":"","component":"df"},"action":"add"}}
+[2021-11-21T15:39:39.548] [INFO] info - get params:{}
+[2021-11-21T15:39:39.549] [INFO] info - post params:{"params":{"menuForm":{"parentId":[null],"menuType":1,"menuState":1,"menuName":"df","icon":"dfd","path":"fdf","menuCode":"","component":"dfd"},"action":"add"}}
+[2021-11-21T15:41:20.111] [INFO] info - get params:{}
+[2021-11-21T15:41:20.112] [INFO] info - post params:{"menuForm":{"parentId":[null],"menuType":1,"menuState":1,"menuName":"gfg","icon":"fgf","path":"fgf","menuCode":"","component":"fgf"},"action":"add"}
+[2021-11-21T15:43:51.092] [INFO] info - get params:{}
+[2021-11-21T15:43:51.094] [INFO] info - post params:{"menuForm":{"parentId":[null],"menuType":1,"menuState":1,"menuName":"df","icon":"dfd","path":"dfs","menuCode":"","component":"dfs"},"action":"add"}
+[2021-11-21T15:44:38.385] [INFO] info - ****数据库连接成功****
+[2021-11-21T15:44:41.626] [INFO] info - get params:{}
+[2021-11-21T15:44:41.628] [INFO] info - post params:{"menuForm":{"parentId":[null],"menuType":1,"menuState":1,"menuName":"df","icon":"dfd","path":"dfs","menuCode":"","component":"dfs"},"action":"add"}
+[2021-11-21T15:45:26.713] [INFO] info - ****数据库连接成功****
+[2021-11-21T15:45:47.505] [INFO] info - ****数据库连接成功****
+[2021-11-21T15:45:55.464] [INFO] info - get params:{}
+[2021-11-21T15:45:55.466] [INFO] info - post params:{"menuForm":{"parentId":[null],"menuType":1,"menuState":1,"menuName":"fds","icon":"fdsfs","path":"dfsd","menuCode":"","component":"sdfsd"},"action":"add"}
+[2021-11-21T15:50:26.317] [INFO] info - ****数据库连接成功****
+[2021-11-21T15:50:41.996] [INFO] info - ****数据库连接成功****
+[2021-11-21T15:50:55.542] [INFO] info - ****数据库连接成功****
+[2021-11-21T15:51:08.600] [INFO] info - ****数据库连接成功****
+[2021-11-21T15:51:10.804] [INFO] info - get params:{}
+[2021-11-21T15:51:10.805] [INFO] info - post params:{"menuForm":{"parentId":[null],"menuType":1,"menuState":1,"menuName":"fds","icon":"fdsfs","path":"dfsd","menuCode":"","component":"sdfsd"},"action":"add"}
+[2021-11-21T15:51:20.399] [INFO] info - get params:{}
+[2021-11-21T15:51:20.400] [INFO] info - post params:{"menuForm":{"parentId":[null],"menuType":1,"menuState":1,"menuName":"dfs","icon":"dfs","path":"dsf","menuCode":"","component":"sdf"},"action":"add"}
+[2021-11-21T15:52:28.545] [INFO] info - ****数据库连接成功****
+[2021-11-21T15:52:35.789] [INFO] info - get params:{}
+[2021-11-21T15:52:35.791] [INFO] info - post params:{"menuForm":{"parentId":[null],"menuType":1,"menuState":1,"menuName":"gfg","icon":"fgd","path":"fgd","menuCode":"","component":"fgd"},"action":"add"}
+[2021-11-21T15:53:06.743] [INFO] info - ****数据库连接成功****
+[2021-11-21T15:53:10.136] [INFO] info - ****数据库连接成功****
+[2021-11-21T15:53:29.796] [INFO] info - get params:{}
+[2021-11-21T15:53:29.798] [INFO] info - post params:{"menuForm":{"parentId":[null],"menuType":1,"menuState":1,"menuName":"测试一下","icon":"icon-ivs","path":"sss","menuCode":"","component":"sss"},"action":"add"}
+[2021-11-21T15:53:59.259] [INFO] info - ****数据库连接成功****
+[2021-11-21T15:54:56.428] [INFO] info - ****数据库连接成功****
+[2021-11-21T15:55:03.618] [INFO] info - get params:{}
+[2021-11-21T15:55:03.619] [INFO] info - post params:{"menuForm":{"parentId":[null],"menuType":1,"menuState":1,"menuName":"fds","icon":"fsdf","path":"sdfa","menuCode":"","component":"dfsf"},"action":"add"}
+[2021-11-21T15:55:33.208] [INFO] info - ****数据库连接成功****
+[2021-11-21T15:55:37.516] [INFO] info - get params:{}
+[2021-11-21T15:55:37.518] [INFO] info - post params:{"menuForm":{"parentId":[null],"menuType":1,"menuState":1,"menuName":"fds","icon":"fsdf","path":"sdfa","menuCode":"","component":"dfsf"},"action":"add"}
+[2021-11-21T15:56:03.406] [INFO] info - ****数据库连接成功****
+[2021-11-21T15:56:12.902] [INFO] info - get params:{}
+[2021-11-21T15:56:12.904] [INFO] info - post params:{"menuForm":{"parentId":[null],"menuType":1,"menuState":1,"menuName":"sd","icon":"sdf","path":"sdfsf","menuCode":"","component":"sdfs"},"action":"add"}
+[2021-11-21T15:56:44.862] [INFO] info - ****数据库连接成功****
+[2021-11-21T15:56:46.643] [INFO] info - ****数据库连接成功****
+[2021-11-21T15:56:53.219] [INFO] info - get params:{}
+[2021-11-21T15:56:53.220] [INFO] info - post params:{"menuForm":{"parentId":[null],"menuType":1,"menuState":1,"menuName":"sf","icon":"sdf","path":"sfs","menuCode":"","component":"dsf"},"action":"add"}
+[2021-11-21T15:57:00.772] [INFO] info - ****数据库连接成功****
+[2021-11-21T15:57:08.152] [INFO] info - ****数据库连接成功****
+[2021-11-21T15:57:26.571] [INFO] info - get params:{}
+[2021-11-21T15:57:26.573] [INFO] info - post params:{"menuForm":{"parentId":[null],"menuType":1,"menuState":1,"menuName":"测试一下","icon":"icon-is","path":"sdf","menuCode":"","component":"sd"},"action":"add"}
+[2021-11-21T15:58:48.905] [INFO] info - ****数据库连接成功****
+[2021-11-21T16:00:54.773] [INFO] info - ****数据库连接成功****
+[2021-11-21T16:00:59.623] [INFO] info - ****数据库连接成功****
+[2021-11-21T16:01:05.298] [INFO] info - ****数据库连接成功****
+[2021-11-21T16:01:13.797] [INFO] info - get params:{}
+[2021-11-21T16:01:13.798] [INFO] info - post params:{"menuForm":{"parentId":[null],"menuType":1,"menuState":1,"menuName":"sf","icon":"sdf","path":"sdf","menuCode":"","component":"sf"},"action":"add"}
+[2021-11-21T16:02:03.640] [INFO] info - ****数据库连接成功****
+[2021-11-21T16:02:15.600] [INFO] info - ****数据库连接成功****
+[2021-11-21T16:02:20.427] [INFO] info - get params:{}
+[2021-11-21T16:02:20.429] [INFO] info - post params:{"menuForm":{"parentId":[null],"menuType":1,"menuState":1,"menuName":"sdf","icon":"sdf","path":"sdf","menuCode":"","component":"sdf"},"action":"add"}
+[2021-11-21T16:05:08.547] [INFO] info - ****数据库连接成功****
+[2021-11-21T16:05:12.531] [INFO] info - ****数据库连接成功****
+[2021-11-21T16:05:21.288] [INFO] info - get params:{}
+[2021-11-21T16:05:21.292] [INFO] info - post params:{"menuForm":{"parentId":[null],"menuType":1,"menuState":1,"menuName":"df","icon":"sdf","path":"sd","menuCode":"","component":"sdf"},"action":"add"}
+[2021-11-21T16:08:14.361] [INFO] info - ****数据库连接成功****
+[2021-11-21T16:08:16.255] [INFO] info - ****数据库连接成功****
+[2021-11-21T16:08:26.126] [INFO] info - get params:{}
+[2021-11-21T16:08:26.128] [INFO] info - post params:{"menuForm":{"parentId":[null],"menuType":1,"menuState":1,"menuName":"fsd","icon":"sdfs","path":"sdfs","menuCode":"","component":"fsdf"},"action":"add"}
+[2021-11-21T16:08:47.953] [INFO] info - ****数据库连接成功****
+[2021-11-21T16:08:58.573] [INFO] info - ****数据库连接成功****
+[2021-11-21T16:11:37.647] [INFO] info - ****数据库连接成功****
+[2021-11-21T16:11:45.630] [INFO] info - get params:{}
+[2021-11-21T16:11:45.631] [INFO] info - post params:{"menuForm":{"parentId":[null],"menuType":1,"menuState":1,"menuName":"sdf","icon":"sfs","path":"fsdf","menuCode":"","component":"sfs"},"action":"add"}
+[2021-11-21T16:12:06.828] [INFO] info - ****数据库连接成功****
+[2021-11-21T16:16:16.405] [INFO] info - get params:{}
+[2021-11-21T16:16:16.407] [INFO] info - post params:{"menuForm":{"parentId":[null],"menuType":1,"menuState":1,"menuName":"sf","icon":"sdf","path":"sfs","menuCode":"","component":"fsdf"},"action":"add"}
+[2021-11-21T16:16:57.352] [INFO] info - ****数据库连接成功****
+[2021-11-21T16:18:10.224] [INFO] info - ****数据库连接成功****
+[2021-11-21T16:20:00.129] [INFO] info - ****数据库连接成功****
+[2021-11-21T16:20:43.716] [INFO] info - ****数据库连接成功****
+[2021-11-21T16:20:52.743] [INFO] info - get params:{}
+[2021-11-21T16:20:52.744] [INFO] info - post params:{"menuForm":{"parentId":[null],"menuType":1,"menuState":1,"menuName":"sf","icon":"sf","path":"sdfs","menuCode":"","component":"sdf"},"action":"add"}
+[2021-11-21T16:21:33.447] [INFO] info - ****数据库连接成功****
+[2021-11-21T16:22:29.742] [INFO] info - ****数据库连接成功****
+[2021-11-21T16:22:34.104] [INFO] info - ****数据库连接成功****
+[2021-11-21T16:22:40.635] [INFO] info - get params:{}
+[2021-11-21T16:22:40.636] [INFO] info - post params:{"menuForm":{"parentId":[null],"menuType":1,"menuState":1,"menuName":"fsdf","icon":"sdf","path":"sfs","menuCode":"","component":"sdf"},"action":"add"}
+[2021-11-21T16:23:16.286] [INFO] info - ****数据库连接成功****
+[2021-11-21T16:23:29.597] [INFO] info - ****数据库连接成功****
+[2021-11-21T16:23:51.535] [INFO] info - ****数据库连接成功****
+[2021-11-21T16:23:59.818] [INFO] info - get params:{}
+[2021-11-21T16:23:59.819] [INFO] info - post params:{"menuForm":{"parentId":[null],"menuType":1,"menuState":1,"menuName":"sf","icon":"sdfs","path":"sf","menuCode":"","component":"sf"},"action":"add"}
+[2021-11-21T17:50:48.268] [INFO] info - ****数据库连接成功****
+[2021-11-21T17:50:55.807] [INFO] info - ****数据库连接成功****
+[2021-11-21T17:52:13.446] [INFO] info - ****数据库连接成功****
+[2021-11-21T17:55:29.043] [INFO] info - get params:{}
+[2021-11-21T17:55:29.045] [INFO] info - post params:{"menuForm":{"parentId":[null],"menuType":1,"menuState":1,"menuName":"sf111","icon":"sdfs111","path":"sf11","menuCode":"","component":"sf111","createTime":"2021-11-21T08:23:51.531Z","updateTime":"2021-11-21T08:23:51.531Z","_id":"619a021f3ca9fc0a9d583f7c","order":"0","children":[]},"action":"edit"}
+[2021-11-21T17:55:39.356] [INFO] info - ****数据库连接成功****
+[2021-11-21T17:55:48.609] [INFO] info - get params:{}
+[2021-11-21T17:55:48.611] [INFO] info - post params:{"userName":"admin","userPwd":"admin"}
+[2021-11-21T17:55:53.695] [INFO] info - get params:{"state":"1","userId":"","userName":"","pageNum":"1","pageSize":"10"}
+[2021-11-21T17:55:53.695] [INFO] info - post params:{}
+[2021-11-21T17:56:04.209] [INFO] info - get params:{}
+[2021-11-21T17:56:04.210] [INFO] info - post params:{"menuForm":{"parentId":[null],"menuType":1,"menuState":1,"menuName":"sfd111","icon":"sdfs111","path":"sf11","menuCode":"","component":"sf11","createTime":"2021-11-21T08:23:51.531Z","updateTime":"2021-11-21T08:23:51.531Z","_id":"619a021f3ca9fc0a9d583f7c","order":"0","children":[]},"action":"edit"}
+[2021-11-21T17:56:42.009] [INFO] info - ****数据库连接成功****
+[2021-11-21T17:57:01.768] [INFO] info - get params:{}
+[2021-11-21T17:57:01.769] [INFO] info - post params:{"menuForm":{"parentId":[null],"menuType":1,"menuState":1,"menuName":"sf222","icon":"sdfs22","path":"sf222","menuCode":"","component":"sf222","createTime":"2021-11-21T08:23:51.531Z","updateTime":"2021-11-21T08:23:51.531Z","_id":"619a021f3ca9fc0a9d583f7c","order":"0","children":[]},"action":"edit"}
+[2021-11-21T17:58:11.060] [INFO] info - ****数据库连接成功****
+[2021-11-21T17:58:20.414] [INFO] info - get params:{}
+[2021-11-21T17:58:20.416] [INFO] info - post params:{"menuForm":{"parentId":[null],"menuType":1,"menuState":1,"menuName":"sfsdf222","icon":"sdfssfs","path":"sffsf2222","menuCode":"","component":"sf222","createTime":"2021-11-21T08:23:51.531Z","updateTime":"2021-11-21T08:23:51.531Z","_id":"619a021f3ca9fc0a9d583f7c","order":"0","children":[]},"action":"edit"}
+[2021-11-21T17:58:53.668] [INFO] info - ****数据库连接成功****
+[2021-11-21T17:59:04.993] [INFO] info - ****数据库连接成功****
+[2021-11-21T17:59:12.152] [INFO] info - get params:{}
+[2021-11-21T17:59:12.154] [INFO] info - post params:{"menuForm":{"parentId":[null],"menuType":1,"menuState":1,"menuName":"sf222","icon":"sdfs22","path":"sf22","menuCode":"","component":"sf22","createTime":"2021-11-21T08:23:51.531Z","updateTime":"2021-11-21T08:23:51.531Z","_id":"619a021f3ca9fc0a9d583f7c","order":"0","children":[]},"action":"edit"}
+[2021-11-21T17:59:25.286] [INFO] info - ****数据库连接成功****
+[2021-11-21T18:00:11.892] [INFO] info - ****数据库连接成功****
+[2021-11-21T18:00:14.881] [INFO] info - ****数据库连接成功****
+[2021-11-21T18:00:27.510] [INFO] info - ****数据库连接成功****
+[2021-11-21T18:00:50.413] [INFO] info - ****数据库连接成功****
+[2021-11-21T18:01:08.068] [INFO] info - ****数据库连接成功****
+[2021-11-22T15:26:11.541] [INFO] info - ****数据库连接成功****
+[2021-11-22T15:27:00.184] [INFO] info - ****数据库连接成功****
+[2021-11-22T15:27:31.051] [INFO] info - get params:{}
+[2021-11-22T15:27:31.052] [INFO] info - post params:{"userName":"admin","userPwd":"admin"}
+[2021-11-22T15:27:34.361] [INFO] info - get params:{}
+[2021-11-22T15:27:34.363] [INFO] info - post params:{"userName":"admin","userPwd":"admin"}
+[2021-11-22T15:27:37.049] [INFO] info - get params:{}
+[2021-11-22T15:27:37.051] [INFO] info - post params:{"userName":"admin","userPwd":"admin"}
+[2021-11-22T15:27:38.799] [INFO] info - get params:{}
+[2021-11-22T15:27:38.800] [INFO] info - post params:{"userName":"admin","userPwd":"admin"}
+[2021-11-22T15:27:45.863] [INFO] info - get params:{}
+[2021-11-22T15:27:45.864] [INFO] info - post params:{"userName":"admin","userPwd":"admin"}
+[2021-11-22T15:29:43.275] [INFO] info - ****数据库连接成功****
+[2021-11-22T15:30:10.517] [INFO] info - get params:{}
+[2021-11-22T15:30:10.519] [INFO] info - post params:{"userName":"admin","userPwd":"admin"}
+[2021-11-22T16:16:56.046] [INFO] info - ****数据库连接成功****
+[2021-11-22T16:17:05.514] [INFO] info - get params:{}
+[2021-11-22T16:17:05.516] [INFO] info - post params:{"userName":"admin","userPwd":"admin"}
+[2021-11-22T16:21:01.462] [INFO] info - get params:{"state":"1","userId":"","userName":"","pageNum":"1","pageSize":"10"}
+[2021-11-22T16:21:01.463] [INFO] info - post params:{}
+[2021-11-22T16:21:46.531] [INFO] info - get params:{}
+[2021-11-22T16:21:46.533] [INFO] info - post params:{"userName":"admin","userPwd":"admin"}
+[2021-11-22T16:21:54.108] [INFO] info - get params:{}
+[2021-11-22T16:21:54.110] [INFO] info - post params:{"userName":"admin","userPwd":"admin"}
+[2021-11-22T16:21:54.797] [INFO] info - get params:{}
+[2021-11-22T16:21:54.798] [INFO] info - post params:{"userName":"admin","userPwd":"admin"}
+[2021-11-22T16:21:54.993] [INFO] info - get params:{}
+[2021-11-22T16:21:54.994] [INFO] info - post params:{"userName":"admin","userPwd":"admin"}
+[2021-11-22T16:22:16.830] [INFO] info - ****数据库连接成功****
+[2021-11-22T16:22:27.544] [INFO] info - get params:{}
+[2021-11-22T16:22:27.546] [INFO] info - post params:{"userName":"admin","userPwd":"admin"}
+[2021-11-22T16:22:31.392] [INFO] info - get params:{}
+[2021-11-22T16:22:31.393] [INFO] info - post params:{"userName":"admin","userPwd":"admin"}
+[2021-11-22T16:22:32.301] [INFO] info - get params:{}
+[2021-11-22T16:22:32.302] [INFO] info - post params:{"userName":"admin","userPwd":"admin"}
+[2021-11-22T16:22:32.564] [INFO] info - get params:{}
+[2021-11-22T16:22:32.566] [INFO] info - post params:{"userName":"admin","userPwd":"admin"}
+[2021-11-22T18:14:26.081] [INFO] info - ****数据库连接成功****
+[2021-11-22T18:14:44.856] [INFO] info - get params:{}
+[2021-11-22T18:14:44.858] [INFO] info - post params:{"userName":"admin","userPwd":"admin"}
+[2021-11-22T18:16:32.217] [INFO] info - get params:{}
+[2021-11-22T18:16:32.218] [INFO] info - post params:{}
+[2021-11-22T18:16:32.228] [INFO] info - get params:{}
+[2021-11-22T18:16:32.229] [INFO] info - post params:{}
+[2021-11-22T18:16:35.489] [INFO] info - get params:{}
+[2021-11-22T18:16:35.490] [INFO] info - post params:{}
+[2021-11-22T18:16:35.495] [INFO] info - get params:{}
+[2021-11-22T18:16:35.496] [INFO] info - post params:{}
+[2021-11-22T18:22:44.519] [INFO] info - ****数据库连接成功****
+[2021-11-22T18:23:19.437] [INFO] info - get params:{}
+[2021-11-22T18:23:19.438] [INFO] info - post params:{}
+[2021-11-22T18:23:19.459] [INFO] info - get params:{}
+[2021-11-22T18:23:19.460] [INFO] info - post params:{}
+[2021-11-22T18:23:59.619] [INFO] info - get params:{}
+[2021-11-22T18:23:59.620] [INFO] info - post params:{"menuForm":{"parentId":[null],"menuType":1,"menuState":1,"menuName":"系统管理","icon":"icon-settiing","path":"/system","menuCode":"","component":""},"action":"add"}
+[2021-11-22T18:23:59.835] [INFO] info - get params:{}
+[2021-11-22T18:23:59.836] [INFO] info - post params:{}
+[2021-11-22T18:24:20.252] [INFO] info - get params:{}
+[2021-11-22T18:24:20.252] [INFO] info - post params:{}
+[2021-11-22T18:24:20.263] [INFO] info - get params:{}
+[2021-11-22T18:24:20.263] [INFO] info - post params:{}
+[2021-11-22T18:25:40.882] [INFO] info - get params:{}
+[2021-11-22T18:25:40.883] [INFO] info - post params:{"menuForm":{"parentId":["619b6fbfbbad6ecd763742dd"],"menuType":1,"menuState":1,"menuName":"用户管理","icon":"","path":"/system/user","menuCode":"","component":""},"action":"add"}
+[2021-11-22T18:25:41.139] [INFO] info - get params:{}
+[2021-11-22T18:25:41.140] [INFO] info - post params:{}
+[2021-11-22T18:27:01.785] [INFO] info - get params:{"menuName":"","menuState":"1"}
+[2021-11-22T18:27:01.785] [INFO] info - post params:{}
+[2021-11-22T18:27:01.794] [INFO] info - get params:{}
+[2021-11-22T18:27:01.794] [INFO] info - post params:{}
+[2021-11-22T18:27:16.659] [INFO] info - get params:{"menuName":"用户管理","menuState":"1"}
+[2021-11-22T18:27:16.660] [INFO] info - post params:{}
+[2021-11-22T19:03:09.632] [INFO] info - get params:{"menuName":"用户管理","menuState":"2"}
+[2021-11-22T19:03:09.634] [INFO] info - post params:{}
+[2021-11-22T19:03:36.094] [INFO] info - get params:{"menuName":"","menuState":"1"}
+[2021-11-22T19:03:36.095] [INFO] info - post params:{}
+[2021-11-22T19:04:03.989] [INFO] info - get params:{}
+[2021-11-22T19:04:03.990] [INFO] info - post params:{"menuForm":{"parentId":[null],"menuType":1,"menuState":1,"menuName":"审批管理","icon":"icon-plus","path":"/apple","menuCode":"","component":""},"action":"add"}
+[2021-11-22T19:04:04.247] [INFO] info - get params:{"menuName":"","menuState":"1"}
+[2021-11-22T19:04:04.248] [INFO] info - post params:{}
+[2021-11-22T19:15:01.844] [INFO] info - ****数据库连接成功****
+[2021-11-22T19:15:08.766] [INFO] info - ****数据库连接成功****
+[2021-11-22T19:15:13.331] [INFO] info - ****数据库连接成功****
+[2021-11-22T20:03:03.036] [INFO] info - ****数据库连接成功****
+[2021-11-22T20:03:24.325] [INFO] info - get params:{"menuName":"","menuState":"1"}
+[2021-11-22T20:03:24.325] [INFO] info - post params:{}
+[2021-11-22T20:03:24.339] [INFO] info - get params:{}
+[2021-11-22T20:03:24.340] [INFO] info - post params:{}
+[2021-11-22T20:03:34.689] [INFO] info - get params:{}
+[2021-11-22T20:03:34.690] [INFO] info - post params:{"userName":"admin","userPwd":"admin"}
+[2021-11-22T20:03:34.787] [INFO] info - get params:{}
+[2021-11-22T20:03:34.787] [INFO] info - post params:{}
+[2021-11-22T20:03:43.074] [INFO] info - get params:{}
+[2021-11-22T20:03:43.074] [INFO] info - post params:{}
+[2021-11-22T20:03:51.221] [INFO] info - get params:{"menuName":"","menuState":"1"}
+[2021-11-22T20:03:51.222] [INFO] info - post params:{}
+[2021-11-22T20:12:15.587] [INFO] info - get params:{}
+[2021-11-22T20:12:15.588] [INFO] info - post params:{"menuForm":{"parentId":["619b6fbfbbad6ecd763742dd","619b7024bbad6ecd763742e2"],"menuType":2,"menuState":1,"menuName":"查看","icon":"","path":"","menuCode":"user_query","component":""},"action":"add"}
+[2021-11-22T20:12:15.839] [INFO] info - get params:{"menuName":"","menuState":"1"}
+[2021-11-22T20:12:15.840] [INFO] info - post params:{}

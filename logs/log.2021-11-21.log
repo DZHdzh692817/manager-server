@@ -1,0 +1,34 @@
+[2021-11-21T15:43:51.103] [ERROR] error - TypeError: Cannot read property 'body' of undefined
+    at D:\vite-vue项目\manager-server\routes\menus.js:12:52
+    at dispatch (D:\vite-vue项目\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\vite-vue项目\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at D:\vite-vue项目\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (D:\vite-vue项目\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\vite-vue项目\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (D:\vite-vue项目\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (D:\vite-vue项目\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\vite-vue项目\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at D:\vite-vue项目\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (D:\vite-vue项目\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at D:\vite-vue项目\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\vite-vue项目\manager-server\node_modules\koa-router\lib\router.js:351:31)
+    at dispatch (D:\vite-vue项目\manager-server\node_modules\koa-compose\index.js:42:32)
+    at jwt (D:\vite-vue项目\manager-server\node_modules\koa-jwt\lib\index.js:73:16)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+[2021-11-21T15:55:37.544] [ERROR] error - ReferenceError: type is not defined
+    at D:\vite-vue项目\manager-server\routes\menus.js:15:5
+    at dispatch (D:\vite-vue项目\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\vite-vue项目\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at D:\vite-vue项目\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (D:\vite-vue项目\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\vite-vue项目\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at allowedMethods (D:\vite-vue项目\manager-server\node_modules\koa-router\lib\router.js:407:12)
+    at dispatch (D:\vite-vue项目\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\vite-vue项目\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at D:\vite-vue项目\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (D:\vite-vue项目\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at D:\vite-vue项目\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\vite-vue项目\manager-server\node_modules\koa-router\lib\router.js:351:31)
+    at dispatch (D:\vite-vue项目\manager-server\node_modules\koa-compose\index.js:42:32)
+    at jwt (D:\vite-vue项目\manager-server\node_modules\koa-jwt\lib\index.js:73:16)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
