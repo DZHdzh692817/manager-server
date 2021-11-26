@@ -13,6 +13,7 @@ const koajwt = require('koa-jwt')//jwt中间件
 const util = require('./utils/util')
 const users = require('./routes/users')
 const menus = require('./routes/menus')
+const roles = require('./routes/roles')
 
 // error handler
 onerror(app)
@@ -64,7 +65,7 @@ router.prefix("/api")
 
 router.use(users.routes(), users.allowedMethods())
 router.use(menus.routes(), menus.allowedMethods())
-
+router.use(roles.routes(), roles.allowedMethods())
 app.use(router.routes(), router.allowedMethods())
 
 // error-handling
